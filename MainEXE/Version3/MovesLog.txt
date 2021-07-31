@@ -1,0 +1,1427 @@
+Player: MyDll - Co
+EXE state 1
+Player: MyDll - Co
+EXE state 1
+Player: MyDll - Co
+EXE state 1
+Player: MyDll.dll
+EXE state 1
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [3,0,3]
+Deck size: 76
+State:2
+Card type:3
+Card ID:0
+Card color:3
+OTHERS LAST type:3
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll.dll
+EXE state 2
+Player3 replies: [4,0,3]
+Deck size: 74
+State:2
+Card type:4
+Card ID:0
+Card color:3
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,3,1]
+Deck size: 73
+State:3
+Card type:4
+Card ID:0
+Card color:3
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [2,0,4]
+Deck size: 72
+State:3
+Card type:4
+Card ID:0
+Card color:3
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,3,3]
+Deck size: 71
+State:3
+Card type:4
+Card ID:0
+Card color:3
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll - Co
+EXE state 3, command 3
+Player2 ones: [1,3,3]
+Deck size: 71
+State:2
+Card type:4
+Card ID:0
+Card color:3
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll - Co
+EXE state 2
+Player1 replies: [1,2,3]
+Deck size: 71
+State:2
+Card type:1
+Card ID:2
+Card color:3
+OTHERS LAST type:1
+OTHERS LAST ID:2
+OTHERS LAST color:3
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [1,1,3]
+Deck size: 71
+State:2
+Card type:1
+Card ID:1
+Card color:3
+OTHERS LAST type:1
+OTHERS LAST ID:1
+OTHERS LAST color:3
+Player: MyDll.dll
+EXE state 2
+Player3 replies: [1,1,3]
+Deck size: 71
+State:2
+Card type:1
+Card ID:1
+Card color:3
+OTHERS LAST type:1
+OTHERS LAST ID:1
+OTHERS LAST color:3
+Player: MyDll - Co
+EXE state 2
+Player2 replies: [1,1,4]
+Deck size: 71
+State:2
+Card type:1
+Card ID:1
+Card color:4
+OTHERS LAST type:1
+OTHERS LAST ID:1
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 2
+Player1 replies: [1,1,1]
+Deck size: 71
+State:2
+Card type:1
+Card ID:1
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:1
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [1,1,2]
+Deck size: 71
+State:2
+Card type:1
+Card ID:1
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:1
+OTHERS LAST color:2
+Player: MyDll.dll
+EXE state 2
+Player3 replies: [1,8,2]
+Deck size: 71
+State:2
+Card type:1
+Card ID:8
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:8
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2
+Player2 replies: [1,5,2]
+Deck size: 71
+State:2
+Card type:1
+Card ID:5
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:5
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2
+Player1 replies: [1,4,2]
+Deck size: 71
+State:2
+Card type:1
+Card ID:4
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:4
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [4,0,2]
+Deck size: 69
+State:2
+Card type:4
+Card ID:0
+Card color:2
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [5,0,0]
+Deck size: 68
+State:3
+Card type:4
+Card ID:0
+Card color:2
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [1,8,2]
+Deck size: 67
+State:3
+Card type:4
+Card ID:0
+Card color:2
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll.dll
+EXE state 3, command 3
+Player3 ones: [1,8,2]
+Deck size: 67
+State:2
+Card type:4
+Card ID:0
+Card color:2
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [3,0,3]
+Deck size: 66
+State:3
+Card type:4
+Card ID:0
+Card color:2
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,3,2]
+Deck size: 65
+State:3
+Card type:4
+Card ID:0
+Card color:2
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 3, command 3
+Player2 ones: [1,3,2]
+Deck size: 65
+State:2
+Card type:4
+Card ID:0
+Card color:2
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2
+Player1 replies: [5,0,0]
+Deck size: 65
+State:2
+Card type:5
+Card ID:0
+Card color:1
+OTHERS LAST type:5
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [5,0,0]
+Deck size: 65
+State:2
+Card type:5
+Card ID:0
+Card color:3
+OTHERS LAST type:5
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll.dll
+EXE state 2
+Player3 replies: [1,7,3]
+Deck size: 65
+State:2
+Card type:1
+Card ID:7
+Card color:3
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:3
+Player: MyDll - Co
+EXE state 2
+Player2 replies: [3,0,3]
+Deck size: 65
+State:2
+Card type:3
+Card ID:0
+Card color:3
+OTHERS LAST type:3
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll.dll
+EXE state 2
+Player3 replies: [5,0,0]
+Deck size: 65
+State:2
+Card type:5
+Card ID:0
+Card color:1
+OTHERS LAST type:5
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player0 draws: [1,8,1]
+Deck size: 64
+State:3
+Card type:5
+Card ID:0
+Card color:1
+OTHERS LAST type:5
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 3, command 3
+Player0 ones: [1,8,1]
+Deck size: 64
+State:2
+Card type:5
+Card ID:0
+Card color:1
+OTHERS LAST type:5
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2
+Player1 replies: [3,0,1]
+Deck size: 64
+State:2
+Card type:3
+Card ID:0
+Card color:1
+OTHERS LAST type:3
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player0 draws: [1,9,3]
+Deck size: 63
+State:3
+Card type:3
+Card ID:0
+Card color:1
+OTHERS LAST type:3
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player0 draws: [1,7,2]
+Deck size: 62
+State:3
+Card type:3
+Card ID:0
+Card color:1
+OTHERS LAST type:3
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player0 draws: [1,9,2]
+Deck size: 61
+State:3
+Card type:3
+Card ID:0
+Card color:1
+OTHERS LAST type:3
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player0 draws: [1,8,3]
+Deck size: 60
+State:3
+Card type:3
+Card ID:0
+Card color:1
+OTHERS LAST type:3
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player0 draws: [1,2,2]
+Deck size: 59
+State:3
+Card type:3
+Card ID:0
+Card color:1
+OTHERS LAST type:3
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player0 draws: [2,0,1]
+Deck size: 58
+State:3
+Card type:3
+Card ID:0
+Card color:1
+OTHERS LAST type:3
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 3, command 3
+Player0 ones: [2,0,1]
+Deck size: 58
+State:2
+Card type:3
+Card ID:0
+Card color:1
+OTHERS LAST type:3
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll.dll
+EXE state 2
+Player3 replies: [4,0,1]
+Deck size: 56
+State:2
+Card type:4
+Card ID:0
+Card color:1
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2
+Player2 replies: [1,3,1]
+Deck size: 56
+State:2
+Card type:1
+Card ID:3
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:3
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2
+Player1 replies: [3,0,1]
+Deck size: 56
+State:2
+Card type:3
+Card ID:0
+Card color:1
+OTHERS LAST type:3
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2
+Player2 replies: [1,3,1]
+Deck size: 56
+State:2
+Card type:1
+Card ID:3
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:3
+OTHERS LAST color:1
+Player: MyDll.dll
+EXE state 2
+Player3 replies: [1,7,1]
+Deck size: 56
+State:2
+Card type:1
+Card ID:7
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [1,7,2]
+Deck size: 56
+State:2
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player1 draws: [1,4,4]
+Deck size: 55
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player1 draws: [1,3,2]
+Deck size: 54
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 3, command 3
+Player1 ones: [1,3,2]
+Deck size: 54
+State:2
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,4,1]
+Deck size: 53
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,9,4]
+Deck size: 52
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,2,1]
+Deck size: 51
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,1,4]
+Deck size: 50
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [5,0,0]
+Deck size: 49
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,9,3]
+Deck size: 48
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,6,3]
+Deck size: 47
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,5,3]
+Deck size: 46
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [6,0,0]
+Deck size: 45
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,7,3]
+Deck size: 44
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,9,1]
+Deck size: 43
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [6,0,0]
+Deck size: 42
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,6,4]
+Deck size: 41
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,8,3]
+Deck size: 40
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [5,0,0]
+Deck size: 39
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,6,3]
+Deck size: 38
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,2,1]
+Deck size: 37
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,7,4]
+Deck size: 36
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,3,3]
+Deck size: 35
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player2 draws: [1,5,2]
+Deck size: 34
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 3, command 3
+Player2 ones: [1,5,2]
+Deck size: 34
+State:2
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [1,4,2]
+Deck size: 33
+State:3
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll.dll
+EXE state 3, command 3
+Player3 ones: [1,4,2]
+Deck size: 33
+State:2
+Card type:1
+Card ID:7
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:7
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [1,2,2]
+Deck size: 33
+State:2
+Card type:1
+Card ID:2
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:2
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2
+Player1 replies: [1,2,3]
+Deck size: 33
+State:2
+Card type:1
+Card ID:2
+Card color:3
+OTHERS LAST type:1
+OTHERS LAST ID:2
+OTHERS LAST color:3
+Player: MyDll - Co
+EXE state 2
+Player2 replies: [1,2,1]
+Deck size: 33
+State:2
+Card type:1
+Card ID:2
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:2
+OTHERS LAST color:1
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [6,0,0]
+Deck size: 32
+State:3
+Card type:1
+Card ID:2
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:2
+OTHERS LAST color:1
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [1,6,2]
+Deck size: 31
+State:3
+Card type:1
+Card ID:2
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:2
+OTHERS LAST color:1
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [2,0,2]
+Deck size: 30
+State:3
+Card type:1
+Card ID:2
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:2
+OTHERS LAST color:1
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [6,0,0]
+Deck size: 29
+State:3
+Card type:1
+Card ID:2
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:2
+OTHERS LAST color:1
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [1,5,1]
+Deck size: 28
+State:3
+Card type:1
+Card ID:2
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:2
+OTHERS LAST color:1
+Player: MyDll.dll
+EXE state 3, command 3
+Player3 ones: [1,5,1]
+Deck size: 28
+State:2
+Card type:1
+Card ID:2
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:2
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [1,2,4]
+Deck size: 28
+State:2
+Card type:1
+Card ID:2
+Card color:4
+OTHERS LAST type:1
+OTHERS LAST ID:2
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 2
+Player1 replies: [1,4,4]
+Deck size: 28
+State:2
+Card type:1
+Card ID:4
+Card color:4
+OTHERS LAST type:1
+OTHERS LAST ID:4
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 2
+Player2 replies: [1,4,1]
+Deck size: 28
+State:2
+Card type:1
+Card ID:4
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:4
+OTHERS LAST color:1
+Player: MyDll.dll
+EXE state 2
+Player3 replies: [6,0,0]
+Deck size: 24
+State:2
+Card type:6
+Card ID:0
+Card color:2
+OTHERS LAST type:6
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player1 draws: [1,5,3]
+Deck size: 23
+State:3
+Card type:6
+Card ID:0
+Card color:2
+OTHERS LAST type:6
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player1 draws: [1,7,1]
+Deck size: 22
+State:3
+Card type:6
+Card ID:0
+Card color:2
+OTHERS LAST type:6
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player1 draws: [1,4,1]
+Deck size: 21
+State:3
+Card type:6
+Card ID:0
+Card color:2
+OTHERS LAST type:6
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player1 draws: [5,0,0]
+Deck size: 20
+State:3
+Card type:6
+Card ID:0
+Card color:2
+OTHERS LAST type:6
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player1 draws: [3,0,2]
+Deck size: 19
+State:3
+Card type:6
+Card ID:0
+Card color:2
+OTHERS LAST type:6
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 3, command 3
+Player1 ones: [3,0,2]
+Deck size: 19
+State:2
+Card type:6
+Card ID:0
+Card color:2
+OTHERS LAST type:6
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2
+Player2 replies: [5,0,0]
+Deck size: 19
+State:2
+Card type:5
+Card ID:0
+Card color:4
+OTHERS LAST type:5
+OTHERS LAST ID:0
+OTHERS LAST color:4
+Player: MyDll.dll
+EXE state 2
+Player3 replies: [1,3,4]
+Deck size: 19
+State:2
+Card type:1
+Card ID:3
+Card color:4
+OTHERS LAST type:1
+OTHERS LAST ID:3
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [3,0,4]
+Deck size: 19
+State:2
+Card type:3
+Card ID:0
+Card color:4
+OTHERS LAST type:3
+OTHERS LAST ID:0
+OTHERS LAST color:4
+Player: MyDll.dll
+EXE state 2
+Player3 replies: [6,0,0]
+Deck size: 15
+State:2
+Card type:6
+Card ID:0
+Card color:2
+OTHERS LAST type:6
+OTHERS LAST ID:0
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2
+Player2 replies: [5,0,0]
+Deck size: 15
+State:2
+Card type:5
+Card ID:0
+Card color:4
+OTHERS LAST type:5
+OTHERS LAST ID:0
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 2
+Player1 replies: [1,6,4]
+Deck size: 15
+State:2
+Card type:1
+Card ID:6
+Card color:4
+OTHERS LAST type:1
+OTHERS LAST ID:6
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [1,6,1]
+Deck size: 15
+State:2
+Card type:1
+Card ID:6
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:6
+OTHERS LAST color:1
+Player: MyDll.dll
+EXE state 2
+Player3 replies: [1,6,2]
+Deck size: 15
+State:2
+Card type:1
+Card ID:6
+Card color:2
+OTHERS LAST type:1
+OTHERS LAST ID:6
+OTHERS LAST color:2
+Player: MyDll - Co
+EXE state 2
+Player2 replies: [1,6,3]
+Deck size: 15
+State:2
+Card type:1
+Card ID:6
+Card color:3
+OTHERS LAST type:1
+OTHERS LAST ID:6
+OTHERS LAST color:3
+Player: MyDll - Co
+EXE state 2
+Player1 replies: [1,5,3]
+Deck size: 15
+State:2
+Card type:1
+Card ID:5
+Card color:3
+OTHERS LAST type:1
+OTHERS LAST ID:5
+OTHERS LAST color:3
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [2,0,3]
+Deck size: 15
+State:2
+Card type:2
+Card ID:0
+Card color:3
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [1,1,1]
+Deck size: 14
+State:3
+Card type:2
+Card ID:0
+Card color:3
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [1,7,2]
+Deck size: 13
+State:3
+Card type:2
+Card ID:0
+Card color:3
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [3,0,2]
+Deck size: 12
+State:3
+Card type:2
+Card ID:0
+Card color:3
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [1,6,2]
+Deck size: 11
+State:3
+Card type:2
+Card ID:0
+Card color:3
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [1,5,1]
+Deck size: 10
+State:3
+Card type:2
+Card ID:0
+Card color:3
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [1,2,4]
+Deck size: 9
+State:3
+Card type:2
+Card ID:0
+Card color:3
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [1,8,1]
+Deck size: 8
+State:3
+Card type:2
+Card ID:0
+Card color:3
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [2,0,3]
+Deck size: 7
+State:3
+Card type:2
+Card ID:0
+Card color:3
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll.dll
+EXE state 3, command 3
+Player3 ones: [2,0,3]
+Deck size: 7
+State:2
+Card type:2
+Card ID:0
+Card color:3
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:3
+Player: MyDll - Co
+EXE state 2
+Player2 replies: [1,3,3]
+Deck size: 7
+State:2
+Card type:1
+Card ID:3
+Card color:3
+OTHERS LAST type:1
+OTHERS LAST ID:3
+OTHERS LAST color:3
+Player: MyDll - Co
+EXE state 2
+Player1 replies: [5,0,0]
+Deck size: 7
+State:2
+Card type:5
+Card ID:0
+Card color:1
+OTHERS LAST type:5
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [1,6,1]
+Deck size: 7
+State:2
+Card type:1
+Card ID:6
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:6
+OTHERS LAST color:1
+Player: MyDll.dll
+EXE state 2
+Player3 replies: [1,1,1]
+Deck size: 7
+State:2
+Card type:1
+Card ID:1
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:1
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2
+Player2 replies: [1,2,1]
+Deck size: 7
+State:2
+Card type:1
+Card ID:2
+Card color:1
+OTHERS LAST type:1
+OTHERS LAST ID:2
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2
+Player1 replies: [2,0,1]
+Deck size: 7
+State:2
+Card type:2
+Card ID:0
+Card color:1
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:1
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [5,0,0]
+Deck size: 7
+State:2
+Card type:5
+Card ID:0
+Card color:4
+OTHERS LAST type:5
+OTHERS LAST ID:0
+OTHERS LAST color:4
+Player: MyDll.dll
+EXE state 2
+Player3 replies: [1,2,4]
+Deck size: 7
+State:2
+Card type:1
+Card ID:2
+Card color:4
+OTHERS LAST type:1
+OTHERS LAST ID:2
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 2
+Player2 replies: [2,0,4]
+Deck size: 7
+State:2
+Card type:2
+Card ID:0
+Card color:4
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player1 draws: [5,0,0]
+Deck size: 6
+State:3
+Card type:2
+Card ID:0
+Card color:4
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player1 draws: [1,2,2]
+Deck size: 5
+State:3
+Card type:2
+Card ID:0
+Card color:4
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 2 or 3, command 2
+Player1 draws: [3,0,4]
+Deck size: 4
+State:3
+Card type:2
+Card ID:0
+Card color:4
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 3, command 3
+Player1 ones: [3,0,4]
+Deck size: 4
+State:2
+Card type:2
+Card ID:0
+Card color:4
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [4,0,4]
+Deck size: 2
+State:2
+Card type:4
+Card ID:0
+Card color:4
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:4
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [2,0,2]
+Deck size: 1
+State:3
+Card type:4
+Card ID:0
+Card color:4
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:4
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Player3 draws: [1,7,4]
+Deck size: 0
+State:3
+Card type:4
+Card ID:0
+Card color:4
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:4
+Player: MyDll.dll
+EXE state 3, command 3
+Player3 ones: [1,7,4]
+Deck size: 0
+State:2
+Card type:4
+Card ID:0
+Card color:4
+OTHERS LAST type:4
+OTHERS LAST ID:0
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 2
+Player2 replies: [2,0,4]
+Deck size: 0
+State:2
+Card type:2
+Card ID:0
+Card color:4
+OTHERS LAST type:2
+OTHERS LAST ID:0
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 2
+Player1 replies: [1,4,4]
+Deck size: 0
+State:2
+Card type:1
+Card ID:4
+Card color:4
+OTHERS LAST type:1
+OTHERS LAST ID:4
+OTHERS LAST color:4
+Player: MyDll - Co
+EXE state 2
+Player0 replies: [1,4,3]
+Deck size: 0
+State:2
+Card type:1
+Card ID:4
+Card color:3
+OTHERS LAST type:1
+OTHERS LAST ID:4
+OTHERS LAST color:3
+Player: MyDll.dll
+EXE state 2 or 3, command 2
+Deck size: 0
+State:3
+Card type:1
+Card ID:4
+Card color:3
+OTHERS LAST type:1
+OTHERS LAST ID:4
+OTHERS LAST color:3
+GAME END
